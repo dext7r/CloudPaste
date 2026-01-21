@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "wrangler": "^3.0.0"
+    "wrangler": "^3.114.17"
   },
   "optionalDependencies": {
     "sqlite": "^5.1.1",
