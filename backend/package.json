@@ -33,7 +33,7 @@
     "@huggingface/hub": "^2.7.1",
     "better-sqlite3": "^12.5.0",
     "cron-parser": "^5.4.0",
-    "fast-xml-parser": "^5.2.5",
+    "fast-xml-parser": "^5.3.4",
     "file-type": "^21.0.0",
     "hono": "^4.10.6",
     "mime-types": "^3.0.1",
